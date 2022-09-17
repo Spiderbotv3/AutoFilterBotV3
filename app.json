@@ -99,7 +99,7 @@
         "DATABASE_1": {
             "description": "Broadcast Group Database",
             "value": "",
-            "required": mongodb+srv://Spiderbot:spiderbot@cluster0.saxgcv8.mongodb.net/?retryWrites=true&w=majority
+            "required": true
         },
         "ADMIN_ID": {
             "description": "Control BroadCast",
